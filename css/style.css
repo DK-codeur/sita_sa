@@ -805,8 +805,9 @@ ul{
 4. about start
  *******************************************************/
 .index_v1 .clv_about_wrapper{
-	background-image: url('https://via.placeholder.com/1920x1080');
+	/* background-image: url('../images/bg-about.jpg'); */
 	background-size: contain;
+	background-repeat: no-repeat;
 }
 .clv_about_wrapper .about_img img{
 	border-radius: 10px;
@@ -2892,7 +2893,7 @@ ul{
 	padding-bottom: 95px;
 }
 .agri_team_content{
-	margin-top: 100px;
+	margin-top: 33px;
 }
 .agri_team_content h3{
 	font-size: 40px;
@@ -6842,7 +6843,7 @@ ul{
 /*Breadcrumb Start*/
 .breadcrumb_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x160') no-repeat center;
+	background: url('../images/about-img.png') no-repeat center;
 	background-size: cover;
 	padding: 63px 0px 57px;
 	z-index: 1;
