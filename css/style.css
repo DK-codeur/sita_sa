@@ -906,7 +906,8 @@ ul{
 	padding: 88px 0px 96px;
 	z-index: 1;
 }
-.clv_counter_wrapper:before{
+
+.counter .clv_counter_wrapper:before{
 	content: "";
 	display: block;
 	position: absolute;
@@ -2503,9 +2504,9 @@ ul{
 .index_v2 .clv_counter_wrapper{
 	background: none;
 }
-.index_v2 .clv_counter_wrapper:before{
+/* .index_v2 .clv_counter_wrapper:before{
 	display: none;
-}
+} */
 .index_v2 .clv_counter_wrapper .counter_block > .counter_img > span{
 	border: 1px dashed #dcdcdc;
 }
