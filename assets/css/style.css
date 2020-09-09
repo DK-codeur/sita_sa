@@ -6839,7 +6839,7 @@ ul{
 /*Breadcrumb Start*/
 .breadcrumb_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x160') no-repeat center;
+	background: url('../images/coque.jpeg') no-repeat center;
 	background-size: cover;
 	padding: 63px 0px 57px;
 	z-index: 1;

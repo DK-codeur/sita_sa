@@ -303,20 +303,20 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 							<div class="feature_img">
 								<img src="assets/images/coque.jpeg" class="rounded-circle" width="150px" alt="image" />
 							</div>
-							<h3>Power Anacarde</h3>
+							<h3>Transformation</h3>
 							<p>Transformation des coques en de meilleures briquettes.</p>
-							<a href="javascript:;" class="clv_btn">read more</a>
+							
 						</div>
 					</div>
 
 					<div class="col-md-4 col-lg-4">
 						<div class="feature_block" style="box-shadow: 0px 4px green;">
 							<div class="feature_img">
-								<img src="assets/images/coque.jpeg" class="rounded-circle" width="150px" alt="image" />
+								<img src="assets/images/bol.jpg" class="rounded-circle" width="150px" alt="image" />
 							</div>
-							<h3>Power Anacarde</h3>
+							<h3>Création</h3>
 							<p>Création d'energie renouvelable entre autres l'alimentation des foyers domestiques.</p>
-							<a href="javascript:;" class="clv_btn">read more</a>
+							
 						</div>
 					</div>
 
@@ -326,9 +326,9 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 								<img src="assets/images/noix.jpg" class="rounded-circle" width="150px" max-width="100%"
 									alt="image" />
 							</div>
-							<h3>Power Anacarde</h3>
+							<h3>Developpement</h3>
 							<p>Inscrire la cote d'ivoire au crédit carbone grâce aux plantations crées.</p>
-							<a href="javascript:;" class="clv_btn">read more</a>
+							
 						</div>
 					</div>
 
@@ -428,7 +428,7 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 								<div class="col-md-4">
 									<div class="agri_team_block">
 										<div class="agri_team_image">
-											<img src="assets/images/miadi.png" alt="image">
+											<img src="assets/images/miadi2.png" alt="image">
 										</div>
 										<div class="agri_team_overlay p-4 text-center">
 											<h4>Produit</h4>
