@@ -1,10 +1,4 @@
   /*--------------------- Copyright (c) 2019 ----------------------- 
-[Master Stylesheet] 
-Template Name: Cultivation- Multipurpose Responsive HTML template 
-Version: 1.0.0
-Author: Kamleshyadav
-Website: 
-Purchase: 
  ------------------------------------------------------------------- 
 [Table of contents] 
 1. body
@@ -4585,7 +4579,7 @@ ul{
 }
 .garden_service2_section .service2_block {
 	position: relative;
-	background: url('https://via.placeholder.com/390x276') no-repeat center;
+	/* background: url('https://via.placeholder.com/390x276') no-repeat center; */
 	background-size: cover;
 	text-align: center;
 	padding: 40px 20px;
