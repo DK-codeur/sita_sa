@@ -114,7 +114,7 @@
 											data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
 											data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
 											style="z-index: 9; white-space: normal; font-size: 52px; line-height: 81px; font-weight: 300; color: rgba(255, 255, 255, 1); display: block;font-family:'Source Sans Pro', sans-serif;">
-											<span style="font-size: 52px;">La noix de cajoux, notre affaire !</span>
+											<span style="font-size: 52px;">La noix de cajou, C'est notre affaire !</span>
 										</div>
 
 
@@ -337,6 +337,21 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 		</div>
 		<!--end Vision-->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
 		<!--About PDG-->
 		<div class="clv_about_agriculture_wrapper clv_section">
 			<div class="container">
@@ -400,7 +415,7 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 				<div class="row">
 					<div class="col-md-3 col-lg-3">
 						<div class="agri_team_content">
-							<h3>...Produit brute à produit fini</h3>
+							<h3>...Produit brut à produit fini</h3>
 							<!-- <span><img src="images/agri_underline3.png" alt="image"></span> -->
 							<p>Transformation de l'anacarde en produit </p>
 							<p class="small">Selectionnés pour leurs finesse de gout et leur qualité, les produits de la SITA SA ont pus

@@ -9,8 +9,8 @@
 					<p>Nous sommes à votre disposition pour toutes demandes et préocupations.</p>
 					<div class="mx-4 text-white">
 						<h6>Abidjan, Treichville</h6>
-						<h6>+225 21 00 01 01</h6>
-						<h6>info@sita.com</h6>
+						<h6>+225 21 25 16 15</h6>
+						<h6>infos@sita-sa.com</h6>
 					</div>
 					<ul>
 						<li><a href="javascript:;"><span><i class="fa fa-facebook" aria-hidden="true"></i></span></a>

@@ -61,7 +61,7 @@
                             écologique qui respecte les normes internationales etenvironnementales.
                             Elle produit, exporte et traite l'anacarde. Les secteurs d'activités qu'elle couvre sont
                             : l'agriculture et
-                            l'industrie à savoir le riz et l'anacarde.</p>
+                            l'industrie à savoir le riz et l'anacarde. Enfin le Groupe SITA SA, est la première entreprise du traitement de l'anacarde en Côte d'Ivoire.</p>
                         <div class="video_block">
                             <div class="video_btn">
                                 <a href="https://www.youtube.com/watch?v=gQomgs6ibJo" class="play_video"><span

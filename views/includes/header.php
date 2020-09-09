@@ -73,7 +73,7 @@
                                     </span>
                                     <div class="header_location">
                                         <h5>Telephone</h5>
-                                        <p>( +225 ) 21 00 01 01</p>
+                                        <p>( +225 ) 21 25 16 15</p>
                                     </div>
                                 </div>
                             </div>
@@ -102,7 +102,7 @@
                                     </span>
                                     <div class="header_location">
                                         <h5>Adresse Email</h5>
-                                        <p>info@sita.com</p>
+                                        <p>infos@sita-sa.com</p>
                                     </div>
                                 </div>
                             </div>
