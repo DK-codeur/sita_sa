@@ -44,7 +44,7 @@
                                     </span>
                                     <div class="header_location">
                                         <h5>SITA SA</h5>
-                                        <p>Abidjan Côte d'Ivoire</p>
+                                        <p>Treichville, rue des selliers</p>
                                     </div>
                                 </div>
                             </div>
@@ -116,7 +116,7 @@
                             <ul>
                                 <li> <a href="home">Accueil</a> </li>
                                 <li> <a href="le-groupe">Le groupe</a> </li>
-                                <li> <a href="activites">Activites</a> </li>
+                                <!-- <li> <a href="activites">Activites</a> </li> -->
                                 <li> <a href="gallerie">Galerie</a> </li>
                                 <li> <a href="a-propos">A propos</a> </li>
                             </ul>

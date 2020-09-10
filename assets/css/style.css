@@ -956,7 +956,7 @@ ul{
 .clv_counter_wrapper .counter_block > .counter_text > h5{
 	font-size: 18px;
 	font-weight: 600;
-	color: #ffffff;
+	color: #ffffff !important;
 	text-transform: capitalize;
 }
 /********************************************************
@@ -1815,6 +1815,7 @@ ul{
 }
 .clv_newsletter_wrapper .newsletter_text{
 	width: 40%;
+	
 }
 .clv_newsletter_wrapper .newsletter_text h2{
 	font-size: 40px;

@@ -117,8 +117,8 @@
 											<span style="font-size: 52px;">La noix de cajou, C'est notre affaire !</span>
 										</div>
 
-
-										<a href="a-propos" target="_blank" class="tp-caption rev-btn clv_btn"
+										<br>
+										<a href="a-propos" class="tp-caption rev-btn clv_btn"
 											id="slide-407-layer-4" data-x="['center','center','center','center']"
 											data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','top','top']"
 											data-voffset="['30','30','30','30']" data-width="170px" data-height="none"
@@ -246,7 +246,7 @@
 											<span style="font-size: 52px;">L'Anacarde, notre passion !</span></div>
 
 
-										<a href="javascript:;" target="_blank" class="tp-caption rev-btn clv_btn"
+										<a href="#" class="tp-caption rev-btn clv_btn"
 											id="slide-408-layer-4" data-x="['center','center','center','center']"
 											data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','top','top']"
 											data-voffset="['30','30','30','30']" data-width="170px" data-height="none"
@@ -484,7 +484,7 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 
 		<div class="text-center" style="max-width: 80%; width: 50%; margin: auto;">
 			<p>
-				Au cours de son parcours, la SITA SA, par la qualité de son travail s'est entourée de plusieurs partenaires de renommer divers dont: .
+				Au cours de son parcours, la SITA SA, par la qualité de son travail s'est entourée de plusieurs partenaires de renommée divers dont: 
 			</p>
 		</div>
 
@@ -512,7 +512,7 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 									</div>
 									<div class="counter_text">
 										<h4><span class="count_no" data-to="400" data-speed="3000">400</span><span></span></h4>
-										<h5>Employes</h5>
+										<h5 >Employés</h5>
 									</div>
 								</div>
 							</div>
@@ -536,7 +536,7 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 									</div>
 									<div class="counter_text">
 										<h4><span class="count_no" data-to="30" data-speed="3000">30</span><span>+</span></h4>
-										<h5>Année d'experience</h5>
+										<h5>Années d'experience</h5>
 									</div>
 								</div>
 							</div>

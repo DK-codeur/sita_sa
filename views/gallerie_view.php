@@ -18,7 +18,7 @@
 				<div class="row justify-content-center">
 					<div class="col-md-4">
 						<div class="breadcrumb_inner">
-							<h3>Gallerie</h3>
+							<h3>Galerie</h3>
 						</div>
 					</div>
 				</div>
