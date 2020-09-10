@@ -118,7 +118,7 @@
 										</div>
 
 
-										<a href="javascript:;" target="_blank" class="tp-caption rev-btn clv_btn"
+										<a href="a-propos" target="_blank" class="tp-caption rev-btn clv_btn"
 											id="slide-407-layer-4" data-x="['center','center','center','center']"
 											data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','top','top']"
 											data-voffset="['30','30','30','30']" data-width="170px" data-height="none"
