@@ -55,6 +55,24 @@
 	font-weight: 400;
 	overflow-x: hidden;
 }
+.responsive-map-container {
+	position: relative;
+	/* padding-bottom: 56.25%; */
+	height: 70vh;
+	overflow: hidden;
+  
+  
+  }
+  
+  .responsive-map-container iframe,   
+  .responsive-map-container object,  
+  .responsive-map-container embed {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+  }
 *,*:before,*:after{
 	box-sizing: border-box;
 	-webkit-box-sizing: border-box;

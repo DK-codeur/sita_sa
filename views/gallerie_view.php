@@ -33,8 +33,7 @@
 						<div class="clv_heading">
 							<h3>Notre Galerie d'image</h3>
 							<div class="clv_underline"><img src="assets/images/agri_underline.png" alt="image" /></div>
-							<p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dole magna
-								aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+							<p>Découvrez ou Redécouvrez en image la Société Ivoirienne de Traitement de l'Anarcade (SITA)</p>
 						</div>
 					</div>
 				</div>
@@ -222,7 +221,9 @@
 
         </div>
         
-    <?php include_once 'views/includes/partners.php' ?>
+	<?php 
+	#include_once 'views/includes/partners.php' 
+	?>
 
 		
     <?php include_once 'views/includes/footer.php' ?>

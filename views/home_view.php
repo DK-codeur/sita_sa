@@ -501,7 +501,8 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 							<div class="clv_heading white_heading">
 								<h3>SITA sa groupe en chiffre</h3>
 								<div class="clv_underline"><img src="assets/images/underline2.png" alt="image"></div>
-								<p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dole magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+								<!-- <p>Consectetur adipisicing elit sed do eiusmod tempor incididunt ut labore et dole magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p> -->
+							
 							</div>
 						</div>
 					</div>
@@ -530,11 +531,21 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 									</div>
 								</div>
 							</div>
-
 							<div class="col-lg-3 col-md-3">
 								<div class="counter_block">
 									<div class="counter_img">
-										<span class="orange_bg"><img src="assets/images/counter_branch.png" alt="image" class="img-fluid"></span>
+										<span class="blue_bg"><img src="assets/images/counter_branch.png" alt="image" class="img-fluid"></span>
+									</div>
+									<div class="counter_text">
+										<h4><span class="count_no" data-to="8" data-speed="3000">8</span><span></span></h4>
+										<h5>Sociétés</h5>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-3 col-md-3">
+								<div class="counter_block">
+									<div class="counter_img">
+										<span class="orange_bg"><img src="assets/images/counter_winner.png"" alt="image" class="img-fluid"></span>
 									</div>
 									<div class="counter_text">
 										<h4><span class="count_no" data-to="30" data-speed="3000">30</span><span>+</span></h4>
@@ -543,17 +554,7 @@ Aussi, mobiliser des ressources pour investir dans le developpement de toute la 
 								</div>
 							</div>
 
-							<div class="col-lg-3 col-md-3">
-								<div class="counter_block">
-									<div class="counter_img">
-										<span class="blue_bg"><img src="assets/images/counter_winner.png" alt="image" class="img-fluid"></span>
-									</div>
-									<div class="counter_text">
-										<h4><span class="count_no" data-to="6" data-speed="3000">6</span><span></span></h4>
-										<h5>Pays</h5>
-									</div>
-								</div>
-							</div>
+						
 						</div>
 					</div>
 				</div>

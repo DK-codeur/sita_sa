@@ -93,12 +93,18 @@
             </div>
         </div>
     </div>
-
-    <div class="vision-title mt-3">
+	<div class="responsive-map-container">
+        <!-- place the iframe code between here... -->
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3972.754001273494!2d-4.013848385736048!3d5.301032437636715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfc1ebdeec5b1681%3A0x152b8f2b649f0420!2sSITA%20S.A.!5e0!3m2!1sfr!2sci!4v1599730803757!5m2!1sfr!2sci" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+	<!-- ... and here -->
+      </div>
+    <!-- <div class="vision-title mt-3">
         <h1 class="text-center">Nos partenaires</h1>
-    </div>
+    </div> -->
         
-    <?php include_once 'views/includes/partners.php' ?>
+    <?php 
+    #include_once 'views/includes/partners.php' 
+    ?>
 
 		
     <?php include_once 'views/includes/footer.php' ?>
