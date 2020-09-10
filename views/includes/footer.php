@@ -6,6 +6,7 @@
             <h2>Obtenez <br/>nos derniere nouvelles</h2>
             <h4>Souscrivez à notre newsletter</h4>
         </div>
+        <br>
         <div class="newsletter_field">
             <div class="newsletter_field_block">
                 <input type="text" placeholder="Entrer votre Email ici" />
@@ -26,33 +27,33 @@
                 </div>
             </div>
             
-            <div class="col-md-3 col-lg-3">
+            <div class="col-md-4 col-lg-4">
                 <div class="footer_block">
                     <div class="footer_heading">
-                        <h4>services</h4>
+                        <h4>Heures d'ouverture</h4>
                         <img src="assets/images//agri_underline3.png" alt="image">
                     </div>
                     <ul class="useful_links">
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Weed &amp; Pest Control</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Grass Seeding</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Programs &amp; Grants</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Agricultural Products</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Education &amp; event</a></li>
+                    <li> <span></span>   </li>
+                        <li><a href="#"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Lundi - Vendredi :  8:00 am - 17:00 pm</a></li>
+                        <li><a href="#"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Samedi:  Fermé</a></li>
+                        <li><a href="#"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Dimanche: Fermé</a></li>
                     </ul>
                 </div>
             </div>
 
-            <div class="col-md-3 col-lg-3">
+            <div class="col-md-2 col-lg-2">
                 <div class="footer_block">
                     <div class="footer_heading">
                         <h4>Liens Utiles</h4>
                         <img src="assets/images//agri_underline3.png" alt="image">
                     </div>
                     <ul class="useful_links">
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Lien bravo 1</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Lien bravo 2</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Lien bravo 3</a></li>
-                        <li><a href="javascript:;"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Lien bravo 4</a></li>
+                        <li><a href="le-groupe"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Le Groupe</a></li>
+                        <!-- <li><a href="activites"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Activités</a></li> -->
+                        <li><a href="gallerie"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>Galerie</a></li>
+                        <li><a href="a-propos"><span><i class="fa fa-angle-right" aria-hidden="true"></i></span>A propos</a></li>
+                       
                     </ul>
                 </div>
             </div>
@@ -77,7 +78,24 @@
                                 <path fill-rule="evenodd" fill="rgb(81, 176, 30)" d="M14.873,0.856 C14.815,0.856 14.700,0.856 14.643,0.913 L0.850,6.660 C0.620,6.776 0.505,6.948 0.505,7.176 C0.505,7.465 0.677,7.695 0.965,7.752 L6.942,9.189 C7.057,9.189 7.114,9.305 7.172,9.419 L8.608,15.396 C8.666,15.626 8.896,15.855 9.183,15.855 C9.413,15.855 9.643,15.683 9.700,15.511 L15.447,1.718 C15.447,1.660 15.505,1.603 15.505,1.488 C15.447,1.085 15.217,0.856 14.873,0.856 ZM9.355,8.902 L9.068,7.695 C9.011,7.465 8.838,7.350 8.666,7.292 L7.459,7.005 C7.172,6.948 7.172,6.545 7.401,6.487 L11.022,4.993 C11.252,4.878 11.482,5.109 11.424,5.395 L9.930,9.017 C9.758,9.189 9.413,9.131 9.355,8.902 Z"></path>
                             </g>
                             </svg>
-                        </span> Abidjan&diams;Côte d'Ivoire</p>
+                        </span> Treichville&diams;rue des selliers</p>
+                        
+                        <p>
+                        <span>
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="16px">
+                            <defs>
+                                <filter id="Filter_0">
+                                    <feFlood flood-color="rgb(31, 161, 46)" flood-opacity="1" result="floodOut"></feFlood>
+                                    <feComposite operator="atop" in="floodOut" in2="SourceGraphic" result="compOut"></feComposite>
+                                    <feBlend mode="normal" in="compOut" in2="SourceGraphic"></feBlend>
+                                </filter>
+                            </defs>
+                            <g filter="url(#Filter_0)">
+                                <path fill-rule="evenodd" fill="rgb(81, 176, 30)" d="M14.873,0.856 C14.815,0.856 14.700,0.856 14.643,0.913 L0.850,6.660 C0.620,6.776 0.505,6.948 0.505,7.176 C0.505,7.465 0.677,7.695 0.965,7.752 L6.942,9.189 C7.057,9.189 7.114,9.305 7.172,9.419 L8.608,15.396 C8.666,15.626 8.896,15.855 9.183,15.855 C9.413,15.855 9.643,15.683 9.700,15.511 L15.447,1.718 C15.447,1.660 15.505,1.603 15.505,1.488 C15.447,1.085 15.217,0.856 14.873,0.856 ZM9.355,8.902 L9.068,7.695 C9.011,7.465 8.838,7.350 8.666,7.292 L7.459,7.005 C7.172,6.948 7.172,6.545 7.401,6.487 L11.022,4.993 C11.252,4.878 11.482,5.109 11.424,5.395 L9.930,9.017 C9.758,9.189 9.413,9.131 9.355,8.902 Z"></path>
+                            </g>
+                            </svg>
+                        </span> 06 BP 2243 Abidjan 06
+                    </p>
 
                     <p>
                         <span>

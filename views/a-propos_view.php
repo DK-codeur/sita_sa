@@ -16,9 +16,9 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-4">
-                    <!-- <div class="breadcrumb_inner">
+                    <div class="breadcrumb_inner">
                         <h3>A propos</h3>
-                    </div> -->
+                    </div>
                 </div>
             </div>
         </div>
