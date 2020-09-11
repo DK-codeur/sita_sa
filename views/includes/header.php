@@ -143,9 +143,10 @@
                                                 </g>
                                             </g>
                                         </svg>
-                                        MENU
+                                        
                                     </span>
                                 </li>
+                                <li>MENU</li>
                             </ul>
                         </div>
 

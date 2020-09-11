@@ -9331,7 +9331,7 @@ ul{
 		max-width: 100%;
 	}
 }
-@media (max-width: 1200px) {
+@media (max-width: 1200px) {  
 	.clv_right_header .clv_address .address_block span.addr_icon{
 		margin-right: 8px;
 		float: none;
@@ -11506,4 +11506,8 @@ sita Style
 }
 
 
+
+/* @media screen and (max-width: 768px) {
+	
+} */
 

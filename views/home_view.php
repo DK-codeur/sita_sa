@@ -114,7 +114,8 @@
 											data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
 											data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
 											style="z-index: 9; white-space: normal; font-size: 52px; line-height: 81px; font-weight: 300; color: rgba(255, 255, 255, 1); display: block;font-family:'Source Sans Pro', sans-serif;">
-											<span style="font-size: 52px;">La noix de cajou, C'est notre affaire !</span>
+											
+											<span style="font-size: 52px; line-height: 45px;">La noix de cajou, C'est notre affaire !</span>
 										</div>
 
 										<br>
@@ -243,7 +244,7 @@
 											data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]"
 											data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
 											style="z-index: 9; white-space: normal; font-size: 82px; line-height: 81px; font-weight: 300; color: rgba(255, 255, 255, 1); display: block;font-family:'Source Sans Pro', sans-serif;">
-											<span style="font-size: 52px;">L'Anacarde, notre passion !</span></div>
+											<span style="font-size: 52px; line-height: 45px;">L'Anacarde, notre passion !</span></div>
 
 
 										<a href="#" class="tp-caption rev-btn clv_btn"
