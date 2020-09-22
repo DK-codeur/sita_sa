@@ -119,7 +119,7 @@
 										</div>
 
 										<br>
-										<a href="a-propos" class="tp-caption rev-btn clv_btn"
+										<a href="a-propos" class="tp-caption rev-btn clv_btn my-2"
 											id="slide-407-layer-4" data-x="['center','center','center','center']"
 											data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','top','top']"
 											data-voffset="['30','30','30','30']" data-width="170px" data-height="none"
@@ -131,7 +131,7 @@
 											data-margintop="[18,18,0,0]" data-paddingtop="[0,0,0,0]"
 											data-paddingright="[35,35,35,35]" data-paddingbottom="[0,0,0,0]"
 											data-paddingleft="[35,35,35,35]"
-											style="z-index: 8; white-space: nowrap; font-size: 16px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'Source Sans Pro', sans-serif;border-radius:30px 30px 30px 30px;display:inline-block;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;">Plus
+											style="z-index: 8; white-space: nowrap; font-size: 16px; font-weight: 400; color: rgba(255, 255, 255, 1.00);font-family:'Source Sans Pro', sans-serif;border-radius:30px 30px 30px 30px;display:inline-block;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;text-decoration: none;" >Plus
 											d'infos</a>
 
 									</div>
@@ -247,7 +247,7 @@
 											<span style="font-size: 52px; line-height: 45px;">L'Anacarde, notre passion !</span></div>
 
 
-										<a href="#" class="tp-caption rev-btn clv_btn"
+										<a href="#" class="tp-caption rev-btn clv_btn my-2"
 											id="slide-408-layer-4" data-x="['center','center','center','center']"
 											data-hoffset="['0','0','0','0']" data-y="['bottom','bottom','top','top']"
 											data-voffset="['30','30','30','30']" data-width="170px" data-height="none"

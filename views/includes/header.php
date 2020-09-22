@@ -116,7 +116,7 @@
                             <ul>
                                 <li> <a href="home">Accueil</a> </li>
                                 <li> <a href="le-groupe">Le groupe</a> </li>
-                                <!-- <li> <a href="activites">Activites</a> </li> -->
+                                <li> <a href="activites">Activites</a> </li>
                                 <li> <a href="gallerie">Galerie</a> </li>
                                 <li> <a href="a-propos">A propos</a> </li>
                             </ul>
@@ -146,7 +146,7 @@
                                         
                                     </span>
                                 </li>
-                                <li>MENU</li>
+                                <li class="d-block d-sm-none">MENU</li>
                             </ul>
                         </div>
 

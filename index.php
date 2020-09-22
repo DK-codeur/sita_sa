@@ -2,7 +2,7 @@
     //inclusion de fichier principaux
     include_once 'config/config.php';
     // include_once 'config/database.php';
-    // include_once 'functions/function.php';
+    include_once 'functions/function.php';
     include_once 'classes/Autoloader.php';
     Autoloader::register();
     

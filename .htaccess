@@ -9,8 +9,9 @@ RewriteRule ^contact$ index.php?page=contact
 RewriteRule ^gallerie$ index.php?page=gallerie
 RewriteRule ^a-propos$ index.php?page=a-propos
 RewriteRule ^activites$ index.php?page=activites
+RewriteRule ^detail-article$ index.php?page=detail-article
 
-RewriteRule ^test$ index.php?page=test
+#RewriteRule ^test$ index.php?page=test
 
 
 

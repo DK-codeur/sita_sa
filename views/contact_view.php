@@ -25,10 +25,19 @@
             </div>
         </div>
         
+        <div class="container m-4">
+            <div class="alert alert-success alert-dismissible fade show" role="alert" style="display: <?=$isSuccess ? 'block' : 'none'?> ">
+                <strong>Message envoyé !</strong>Merci pour votre message Nous vous recontacterons si nécéssaire
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        </div>
 		   
     <!--Contact Block-->
     <div class="contact_blocks_wrapper clv_section">
         <div class="container">
+            
             <div class="row">
                 <div class="col-lg-4 col-md-4">
                     <div class="contact_block">
@@ -70,38 +79,38 @@
                             <div class="col-md-12 col-lg-12">
                                 <h3>Envoyez-nous un message</h3>
                             </div>
-							<form>
-                            <div class="col-md-6 col-lg-6">
-                                <div class="form_block">
-                                    <input type="text" name="first_name" class="form_field require" placeholder="Votre Nom" >
+							<form method="POST" action="">
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="form_block">
+                                        <input type="text" name="nom" class="form_field require" placeholder="Votre Nom" value="<?=$nom?>">
+                                        <small class="text-danger nomError"> <?=  $nomError ?> </small>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6 col-lg-6">
-                                <div class="form_block">
-                                    <input type="text" name="last_name" class="form_field require" placeholder="Votre Prenoms" >
+                                <div class="col-md-6 col-lg-6">
+                                    <div class="form_block">
+                                        <input type="text" name="email" class="form_field require" placeholder="Votre Email" data-valid="email" value="<?=$email?>">
+                                        <small class="text-danger nomError"> <?=  $emailError ?> </small>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6 col-lg-6">
-                                <div class="form_block">
-                                    <input type="text" name="email" class="form_field require" placeholder="Votre Email" data-valid="email" data-error="Email should be valid." >
+                            
+                                <div class="col-md-12 col-lg-12">
+                                    <div class="form_block">
+                                        <input type="text" name="sujet" class="form_field require" placeholder="Sujet" value="<?=$objet?>">
+                                        <small class="text-danger nomError"> <?=  $sujetError ?> </small>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-6 col-lg-6">
-                                <div class="form_block">
-                                    <input type="text" name="subject" class="form_field require" placeholder="Objet" >
+                                <div class="col-md-12 col-lg-12">
+                                    <div class="form_block">
+                                        <textarea placeholder="Votre Message" name="message" class="form_field require"><?=htmlspecialchars($message)?></textarea>
+                                        <div class="response"></div>
+                                        <small class="text-danger"> <?=  $messageError ?> </small>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-12 col-lg-12">
-                                <div class="form_block">
-                                    <textarea placeholder="Votre Message" name="message" class="form_field require" ></textarea>
-									<div class="response"></div>
+                                <div class="col-md-12 col-lg-12">
+                                    <div class="form_block">
+                                        <button type="submit" class="clv_btn submitForm" data-type="contact">Envoyer</button>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-12 col-lg-12">
-                                <div class="form_block">
-                                    <button type="button" class="clv_btn submitForm" data-type="contact">Envoyer</button>
-                                </div>
-                            </div>
 							</form>
                         </div>
                     </div>

@@ -39,24 +39,13 @@
 								</div>
 								<div class="agri_blog_content">
 									<h3><a href="#">La SITA au service de la Nation</a></h3>
-									<div class="blog_user">
-										<div class="user_name">
-											<img src="assets/images/user.png" alt="image">
-											<a href="javascript:;"><span>john doe</span></a>
-										</div>
-										<div class="comment_block">
-											<span><i class="fa fa-comments-o" aria-hidden="true"></i></span>
-											<a href="javascript:;">26 comments</a>
-										</div>
-									</div>
+									
 									<p>Mère de cinq enfants, Mme Diabaté Massogbè TOURE est la fondatrice et le PDG de la société SITA (Société
 										Ivoirienne de transformation de l'Anacarde), Membre du Conseil d’Administration du patronat Ivoirien, la
 										CGECI (Confédération Générale des Entreprise de Côte d’Ivoire), elle préside la CDEF (Commission pour le
-										Développement de l’Entrepreneuriat Féminin). En 2000, elle monte la Société ivoirienne de traitement
-										d’anacarde (SITA), la première usine de transformation du produit dans le pays, qui se dispute désormais le
-										marché ivoirien de la transformation de noix de cajou. Ses priorités ? L’aide aux femmes entrepreneures.
+										Développement de l’Entrepreneuriat Féminin). 
 									</p>
-									<a href="javascript:;">Voir plus<span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+									<a href="detail-article">Voir plus<span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
 								</div>
 							</div>
 
@@ -67,24 +56,13 @@
 								</div>
 								<div class="agri_blog_content">
 									<h3><a href="#">La Côte d’Ivoire, deuxième producteur mondial d’anacarde dont plus de 90% </a></h3>
-									<div class="blog_user">
-										<div class="user_name">
-											<img src="assets/images/user.png" alt="image">
-											<a href="javascript:;"><span>john doe</span></a>
-										</div>
-										<div class="comment_block">
-											<span><i class="fa fa-comments-o" aria-hidden="true"></i></span>
-											<a href="javascript:;">26 comments</a>
-										</div>
-									</div>
+									
 									<p>Les autorités ivoiriennes ont fait de la transformation de l'agroalimentaire, le challenge des horizons
 										2020. La nouvelle offre mondiale de la noix de cajou fait du traitement local de l'anacarde, une voie
 										royale pour le développement économique. Principal fournisseur des plus grands marchés nord-américains et
 										européens d'amande de cajou, la Côte d'Ivoire, deuxième producteur mondial, ne transforme qu'environ 6% de
-										sa production nationale. Une faible transformation qui porte les griffes de Massogbè Touré, pionnière de la
-										filière qui a créé, en 2000,la Société ivoirienne de traitement d'anacarde (Sita), la première unité de
-										transformation de ce fruit. Avec elle, il faut compter le groupe singapourien Olam.</p>
-									<a href="javascript:;">Voir plus<span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
+										sa production nationale.</p>
+									<a href="detail-article">Voir plus<span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
 								</div>
 							</div>
 
@@ -95,24 +73,10 @@
 								</div>
 								<div class="agri_blog_content">
 									<h3><a href="#">Son pays est aujourd'hui le premier producteur d'anacardes.</a></h3>
-									<div class="blog_user">
-										<div class="user_name">
-											<img src="assets/images/user.png" alt="image">
-											<a href="javascript:;"><span>john doe</span></a>
-										</div>
-										<div class="comment_block">
-											<span><i class="fa fa-comments-o" aria-hidden="true"></i></span>
-											<a href="javascript:;">26 comments</a>
-										</div>
-									</div>
+								
 									<p>Massogbè Touré : La région dont je suis originaire en Côte d'Ivoire repose à la base sur la production du
 										riz. Mais de nombreux aléas, notamment climatiques, l'ont plongée à l'époque dans une extrême pauvreté,
-										faisant de notre ville, Odienné, l'avant-dernière des plus pauvres du pays. Cette situation était
-										révoltante. A la faveur d'une mission en Inde, j'ai découvert que la noix de cajou y était populaire, sa
-										culture génératrice d'emplois et pourvoyeuse de revenus pour les jeunes et les femmes. Nous avions la noix
-										de cajou dans notre région en Côte d'Ivoire, mais on n'en faisait rien parce que c'était connu pour être
-										toxique. On disait qu'en la mangeant associée au lait, on en mourrait. Je me suis dit si son exploitation
-										bénéficie à l'Inde dont le climat est similaire au nôtre, cela pourrait très bien fonctionner chez nous.
+										faisant de notre ville, Odienné, l'avant-dernière des plus pauvres du pays.
 									</p>
 									<a href="javascript:;">Voir plus <span><i class="fa fa-long-arrow-right" aria-hidden="true"></i></span></a>
 								</div>
